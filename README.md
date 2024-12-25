@@ -1,0 +1,1 @@
+# terraform-kube-argocd-more
